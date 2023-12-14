@@ -22,7 +22,7 @@ docsify    index.html  package.json       Public    snap        Videos
 
 Documents  Music       package-lock.json  **sample**    Templates
 
-![Alt text](<Screenshot from 2023-12-14 14-49-09.png>)
+![image](https://github.com/b02k11/Linux-Commands/assets/132880648/a836aad3-2230-45f8-82a9-65b0e410763e)
 ls command is used to display all the directory and files.
 
 **2. Remove a directory**
@@ -45,7 +45,7 @@ docsify    index.html  package.json       Public      Templates
 
 Documents  Music       package-lock.json  sample.txt  test
 
-![Alt text](<Screenshot from 2023-12-14 14-50-43.png>)
+![image](https://github.com/b02k11/Linux-Commands/assets/132880648/cab1c96c-ffd6-4521-9a63-20b8a9569779)
 
 
 **3. Make a copy of a file**
@@ -70,7 +70,7 @@ document.md  **sample.txt**
 
 brijesh@brijesh-Aspire-Lite-AL15-51:~/Documents$ 
 
-![Alt text](<Screenshot from 2023-12-14 14-51-39.png>)
+![image](https://github.com/b02k11/Linux-Commands/assets/132880648/60f98163-7e19-4f82-bbc1-a5ca5c97fb7a)
 
 **4. Move or rename a file**
 
@@ -101,7 +101,7 @@ newdirc  newdirg  newdirk  newdiro  newdirs  newdirw  **newname.txt**
 
 newdird  newdirh  newdirl  newdirp  newdirt  newdirx
 
-![Alt text](<Screenshot from 2023-12-14 15-20-19.png>)
+![image](https://github.com/b02k11/Linux-Commands/assets/132880648/1cad2b5c-0b12-436d-8c5d-236117b926a7)
 
 **5.Create an empty file**
 
@@ -119,7 +119,7 @@ brijesh@brijesh-Aspire-Lite-AL15-51:~/Documents$ ls
 
 document.md  newfile.txt  **textfile.txt**
 
-![Alt text](<Screenshot from 2023-12-14 16-31-48.png>)
+![image](https://github.com/b02k11/Linux-Commands/assets/132880648/2a52eb14-5d82-40cf-9b5e-6ae4687b4a1c)
 
 **6.Remove multiple files with a single command**
 
@@ -141,7 +141,7 @@ brijesh@brijesh-Aspire-Lite-AL15-51:~/test$ ls
 
 brijesh@brijesh-Aspire-Lite-AL15-51:~/test$
 
-![Alt text](<Screenshot from 2023-12-14 16-32-40.png>)
+![image](https://github.com/b02k11/Linux-Commands/assets/132880648/297aaa98-9632-4e1f-9470-cc0ad3e20125)
 
 **7.Remove content from the folder without removing folder**
 
@@ -161,7 +161,7 @@ brijesh@brijesh-Aspire-Lite-AL15-51:~/test$ ls
 
 brijesh@brijesh-Aspire-Lite-AL15-51:~/test$
 
-![Alt text](<Screenshot from 2023-12-14 16-35-10.png>)
+![image](https://github.com/b02k11/Linux-Commands/assets/132880648/d50581de-fe1f-469d-be8d-d5713cc5580d)
 **8.Create multiple folder(a-z) with a single command**
 
 mkdir newdir{a..z} : This command is used to create multiple directories simultaneously.
@@ -182,4 +182,4 @@ newdirb  newdire  newdirh  newdirk  newdirn  newdirq  newdirt  newdirw  newdirz
 
 newdirc  newdirf  newdiri  newdirl  newdiro  newdirr  newdiru  newdirx
 
-![Alt text](<Screenshot from 2023-12-14 16-36-15.png>)
+![image](https://github.com/b02k11/Linux-Commands/assets/132880648/39cbeac3-cab7-43c1-8d96-3b9716df6bcd)
