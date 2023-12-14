@@ -22,7 +22,8 @@ docsify    index.html  package.json       Public    snap        Videos
 
 Documents  Music       package-lock.json  **sample**    Templates
 
-![image](https://github.com/b02k11/Linux-Commands/assets/132880648/a836aad3-2230-45f8-82a9-65b0e410763e)
+![image](https://github.com/b02k11/Linux-Commands/assets/132880648/a836aad3-2230-45f8-82a9-65b0e410763e)  
+
 ls command is used to display all the directory and files.
 
 **2. Remove a directory**
@@ -162,6 +163,7 @@ brijesh@brijesh-Aspire-Lite-AL15-51:~/test$ ls
 brijesh@brijesh-Aspire-Lite-AL15-51:~/test$
 
 ![image](https://github.com/b02k11/Linux-Commands/assets/132880648/d50581de-fe1f-469d-be8d-d5713cc5580d)
+  
 **8.Create multiple folder(a-z) with a single command**
 
 mkdir newdir{a..z} : This command is used to create multiple directories simultaneously.
